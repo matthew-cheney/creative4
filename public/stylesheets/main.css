@@ -1,0 +1,143 @@
+body {
+    text-align: center;
+    font-family: verdana;
+    background-image: url("../images/pawPattern.jpg");
+}
+
+#welcomePage {
+    display: block;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .8);
+    z-index: 99 !important;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    font-size: 300%;
+}
+
+#allOfIt {}
+
+#nameBar {
+    height: 12vh;
+    font-size: 8vh;
+}
+
+#namePlate {
+    display: inline-block;
+    background-color: #d6d200;
+    padding: 1vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    border-radius: 50%;
+    color: black;
+}
+
+.votingSpace {
+    float: left;
+    width: 20%;
+    height: 80vh;
+}
+
+.votingSpace table {
+    width: 26vh;
+    margin: 0 auto;
+}
+
+.votingSpace tr {
+    height: 26vh;
+    cursor: pointer;
+}
+
+.votingSpace td {
+    border-radius: 50%;
+    font-size: 10vh;
+}
+
+.votingSpace tr :hover {
+    border-radius: 40%;
+}
+
+.votingSpace tr :active {
+    border-radius: 50%;
+}
+
+.postHolder {}
+
+#leftVotes {}
+
+#cute3 {
+    background-color: #2dbc20;
+
+}
+
+#cute2 {
+    background-color: #67e55b;
+}
+
+#cute1 {
+    background-color: #aee8a9;
+}
+
+#lame3 {
+    background-color: #ff0000;
+}
+
+#lame2 {
+    background-color: #ff5151;
+}
+
+
+#lame1 {
+    background-color: #ed8e8e;
+}
+
+
+#displayWindow {
+    float: left;
+    background-color: black;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    height: 80vh;
+    width: 60%;
+}
+
+#rightVotes {}
+
+#sorted {
+    border-radius: 20%;
+    background-color: rgba(0, 0, 0, .7);
+    color: white;
+}
+
+#countCute {
+    color: #8eed99;
+}
+
+#countLame {
+    color: #ed8e8e;
+}
+
+#sorted img {
+    width: 60vh;
+    height: auto;
+    border-radius: 10%;
+}
+
+.countName {
+    font-size: 10vh;
+    text-align: center;
+}
+
+.count {
+    font-size: 15vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}

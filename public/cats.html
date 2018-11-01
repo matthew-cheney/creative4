@@ -1,0 +1,57 @@
+<!doctype html>
+<html ng-app="catApp">
+
+<head>
+    <title>Cute Cat Collective</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="javascripts/cats.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+</head>
+
+<body ng-controller="catCtrl">
+    <div id="welcomePage" ng-click="exitWelcome()">
+        <h2>Welcome to the</h2>
+        <h1>Cute Cat Collective</h1>
+        <p>Rate the following cats by CUTENESS, and see who comes out on top!</p>
+    </div>
+    <div id="nameBar">
+        <div id="namePlate">
+            {{imageOnDisplay.name}}
+        </div>
+    </div>
+    <div id="imageAndVotes">
+        <div id="leftVotes" class="votingSpace">
+            <table>
+                <tr ng-click="cuteIncr(3)">
+                    <td id="cute3">+3</td>
+                </tr>
+                <tr ng-click="cuteIncr(2)">
+                    <td id="cute2">+2</td>
+                </tr>
+                <tr ng-click="cuteIncr(1)">
+                    <td id="cute1">+1</td>
+                </tr>
+            </table>
+        </div>
+        <a href="{{imageOnDisplay.url}}" target="blank">
+            <div id="displayWindow" ng-style="imageDiv">
+                &nbsp
+            </div>
+        </a>
+        <div id="rightVotes" class="votingSpace">
+            <table>
+                <tr ng-click="lameIncr(1)">
+                    <td id="lame1">-1</td>
+                </tr>
+                <tr ng-click="lameIncr(2)">
+                    <td id="lame2">-2</td>
+                </tr>
+                <tr ng-click="lameIncr(3)">
+                    <td id="lame3">-3</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>

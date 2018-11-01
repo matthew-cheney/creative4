@@ -1,0 +1,26 @@
+<!doctype html>
+<html ng-app="catApp">
+
+<head>
+    <title>Cute Cat Collective</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="javascripts/cats.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+</head>
+
+<body ng-controller="catCtrl">
+    <div id="allOfIt">
+        <div ng-repeat="x in cats | orderBy: '-combined'" class="postHolder">
+            <table id="sorted" align="center">
+                <tr>
+                    <td class="count" align="center" id="countCute">+{{x.cute}}</td>
+                    <td><span class="countName">{{x.name}}</span><br><a href="{{x.url}}" target="blank"><img src="{{x.url}}" align="center"></a><br><br></td>
+                    <td class="count" align="center" id="countLame">-{{x.lame}}</td>
+                </tr>
+            </table>
+            <br><br><br>
+        </div>
+    </div>
+</body>
+
+</html>

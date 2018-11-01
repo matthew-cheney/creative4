@@ -1,0 +1,1305 @@
+nohup: ignoring input
+[ { id: 0,
+    name: 'Bella',
+    url: 'https://i.pinimg.com/originals/2e/18/ab/2e18ab3f71b73c6719b04c81625bb922.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 1,
+    name: 'Tigger',
+    url: 'https://img.buzzfeed.com/buzzfeed-static/static/2016-08/8/16/asset/buzzfeed-prod-fastlane01/sub-buzz-23973-1470687963-1.png?downsize=700:*&output-format=auto&output-quality=auto',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 2,
+    name: 'Chloe',
+    url: 'http://www.cutestpaw.com/wp-content/uploads/2011/11/To-infinity-and-beyond.jpeg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 3,
+    name: 'Shadow',
+    url: 'https://data.whicdn.com/images/298844185/large.jpg?t=1507433077',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 4,
+    name: 'Luna',
+    url: 'https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/03/Scottish-Fold_01.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 5,
+    name: 'Oreo',
+    url: 'http://fenozi.com/wp-content/uploads/2017/04/cute-cats-4.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 6,
+    name: 'Oliver',
+    url: 'https://www.mythirtyspot.com/wp-content/uploads/2014/09/Screen-Shot-2014-09-18-at-10.19.29-PM-1024x712.png',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 7,
+    name: 'Kitty',
+    url: 'https://i.pinimg.com/originals/53/37/49/5337490ca1097befda8a3a81e0b77af4.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 8,
+    name: 'Lucy',
+    url: 'https://data.whicdn.com/images/74504318/superthumb.jpg?t=1377458794',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 9,
+    name: 'Molly',
+    url: 'https://www.catster.com/wp-content/uploads/2016/05/catster-kitten-rescue-HERO.jpeg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 10,
+    name: 'Jasper',
+    url: 'http://images6.fanpop.com/image/photos/33400000/Cute-Cats-cats-33440930-1280-800.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 11,
+    name: 'Smokey',
+    url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIyJByZM0cugQi0TLqha66f4yeHuvmCS262UcOTGAYNz5IhOA',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 12,
+    name: 'Gizmo',
+    url: 'http://www.cutestpaw.com/wp-content/uploads/2011/11/Wuts-dis-stuf-l1.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 13,
+    name: 'Simba',
+    url: 'https://fenozi.com/wp-content/uploads/2017/04/cute-cats-8.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 14,
+    name: 'Tiger',
+    url: 'http://cutecatsinhats.com/wp-content/uploads/2016/01/little-lion-cat.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 15,
+    name: 'Charlie',
+    url: 'http://meowaum.com/images/pics/1250/01-cute-cat-begging.png',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 16,
+    name: 'Angel',
+    url: 'https://cdn.cnn.com/cnnnext/dam/assets/151104100359-cat-internet-super-tease.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 17,
+    name: 'Jack',
+    url: 'http://www.icepop.com/wp-content/uploads/2018/01/13-Tumblr1.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 18,
+    name: 'Lily',
+    url: 'https://stylearena.net/wp-content/uploads/2015/04/cute-cat-picture-wallpaper.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 19,
+    name: 'Peanut',
+    url: 'https://static.boredpanda.com/blog/wp-content/uploads/2016/04/beautiful-fluffy-cat-british-longhair-1.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 20,
+    name: 'Toby',
+    url: 'https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.838x0_q80.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 21,
+    name: 'Baby',
+    url: 'https://media.mnn.com/assets/images/2015/09/sweater-sphynx-cat.jpg.653x0_q80_crop-smart.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 22,
+    name: 'Loki',
+    url: 'https://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 23,
+    name: 'Midnight',
+    url: 'https://i.kinja-img.com/gawker-media/image/upload/s--U2teUaC1--/c_fill,f_auto,fl_progressive,g_north,h_264,q_80,w_470/ffyyaurvt86ws4r4bpzu.jpg',
+    cute: 0,
+    lame: 0,
+    combined: 0 },
+  { id: 24,
+    name: 'Milo',
+    url: 'https://sep.yimg.com/ay/healthypetscom/doggone-cat-dog-costume-large-6.gif',
+    cute: 0,
+    lame: 0,
+    combined: 0 } ]
+running on port  4210
+[0mGET / [36m304 [0m9.252 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m1.885 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m2.434 ms - -[0m
+in getcats route
+submissions:  0.3333333333
+[0mGET /getcats [32m200 [0m4.909 ms - 3757[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m6.087 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m22.288 ms - -[0m
+in uplame route for 20
+2
+[0mPOST /uplame [32m200 [0m1.166 ms - -[0m
+in upcute route for 5
+2
+[0mPOST /upcute [32m200 [0m0.662 ms - -[0m
+in uplame route for 8
+1
+[0mPOST /uplame [32m200 [0m0.550 ms - -[0m
+in upcute route for 19
+1
+[0mPOST /upcute [32m200 [0m0.522 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.494 ms - -[0m
+in upcute route for 10
+2
+[0mPOST /upcute [32m200 [0m0.464 ms - -[0m
+in uplame route for 21
+3
+[0mPOST /uplame [32m200 [0m0.512 ms - -[0m
+in upcute route for 11
+1
+[0mPOST /upcute [32m200 [0m8.135 ms - -[0m
+in upcute route for 0
+3
+[0mPOST /upcute [32m200 [0m1.504 ms - -[0m
+in upcute route for 16
+1
+[0mPOST /upcute [32m200 [0m2.154 ms - -[0m
+in uplame route for 22
+1
+[0mPOST /uplame [32m200 [0m0.737 ms - -[0m
+in uplame route for 2
+1
+[0mPOST /uplame [32m200 [0m7.694 ms - -[0m
+in uplame route for 24
+2
+[0mPOST /uplame [32m200 [0m0.812 ms - -[0m
+in uplame route for 17
+1
+[0mPOST /uplame [32m200 [0m0.780 ms - -[0m
+in upcute route for 7
+2
+[0mPOST /upcute [32m200 [0m0.616 ms - -[0m
+in upcute route for 6
+1
+[0mPOST /upcute [32m200 [0m0.630 ms - -[0m
+in upcute route for 14
+1
+[0mPOST /upcute [32m200 [0m0.815 ms - -[0m
+in upcute route for 3
+1
+[0mPOST /upcute [32m200 [0m5.350 ms - -[0m
+in uplame route for 23
+1
+[0mPOST /uplame [32m200 [0m0.935 ms - -[0m
+in upcute route for 1
+1
+[0mPOST /upcute [32m200 [0m1.316 ms - -[0m
+in upcute route for 12
+2
+[0mPOST /upcute [32m200 [0m0.617 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.584 ms - -[0m
+in upcute route for 18
+1
+[0mPOST /upcute [32m200 [0m0.561 ms - -[0m
+in uplame route for 15
+1
+[0mPOST /uplame [32m200 [0m0.581 ms - -[0m
+[0mGET /catList.html [36m304 [0m2.866 ms - -[0m
+in getcats route
+submissions:  0.6666666666
+[0mGET /getcats [32m200 [0m0.877 ms - 3766[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.776 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.240 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m323.561 ms - 1292[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.751 ms - -[0m
+in getcats route
+submissions:  0.9999999999
+[0mGET /getcats [36m304 [0m1.781 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m42.686 ms - 1292[0m
+[0mGET / [32m206 [0m4.078 ms - 1784[0m
+[0mGET / [32m200 [0m2.335 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m1.020 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m1.205 ms - 1938[0m
+in getcats route
+submissions:  1.3333333332
+[0mGET /getcats [32m200 [0m1.757 ms - 3766[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.715 ms - 20226[0m
+[0mGET / [32m206 [0m17.072 ms - 1784[0m
+[0mGET /?fbclid=IwAR0uyLc2PqMW526tABlVGTSWt7u1lm-VqAu5rn1raNQkjLuBvZM_3pEOg-k [32m200 [0m7.137 ms - 1784[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.544 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.529 ms - -[0m
+in getcats route
+submissions:  1.6666666664999998
+[0mGET /getcats [32m200 [0m1.028 ms - 3766[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.306 ms - -[0m
+[0mGET / [32m200 [0m1.065 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.695 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.675 ms - 1938[0m
+in getcats route
+submissions:  1.9999999997999998
+[0mGET /getcats [32m200 [0m0.631 ms - 3766[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.483 ms - 20226[0m
+[0mGET /?fbclid=IwAR3zI031VYGUs_FdHKevxxAZLT388WYEp09B-VSX3CtHRF_2U-jNkUfNE9o [32m200 [0m0.730 ms - 1784[0m
+[0mGET /stylesheets/main.css [32m200 [0m1.017 ms - 1938[0m
+[0mGET /javascripts/cats.js [32m200 [0m3.423 ms - 2897[0m
+in getcats route
+submissions:  2.3333333330999997
+[0mGET /getcats [32m200 [0m0.634 ms - 3766[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m1.719 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m49.530 ms - 1292[0m
+in upcute route for 14
+2
+[0mPOST /upcute [32m200 [0m0.904 ms - -[0m
+in upcute route for 2
+1
+[0mPOST /upcute [32m200 [0m0.546 ms - -[0m
+in upcute route for 16
+1
+[0mPOST /upcute [32m200 [0m2.101 ms - -[0m
+in upcute route for 6
+2
+[0mPOST /upcute [32m200 [0m0.539 ms - -[0m
+in upcute route for 10
+1
+[0mPOST /upcute [32m200 [0m1.750 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m0.464 ms - -[0m
+in upcute route for 17
+2
+[0mPOST /upcute [32m200 [0m0.996 ms - -[0m
+in upcute route for 20
+2
+[0mPOST /upcute [32m200 [0m0.449 ms - -[0m
+in upcute route for 4
+1
+[0mPOST /upcute [32m200 [0m0.787 ms - -[0m
+in upcute route for 15
+2
+[0mPOST /upcute [32m200 [0m0.467 ms - -[0m
+in upcute route for 23
+1
+[0mPOST /upcute [32m200 [0m0.512 ms - -[0m
+in upcute route for 11
+1
+[0mPOST /upcute [32m200 [0m0.443 ms - -[0m
+in upcute route for 1
+1
+[0mPOST /upcute [32m200 [0m2.164 ms - -[0m
+in upcute route for 22
+1
+[0mPOST /upcute [32m200 [0m0.461 ms - -[0m
+in upcute route for 0
+3
+[0mPOST /upcute [32m200 [0m0.676 ms - -[0m
+in upcute route for 5
+1
+[0mPOST /upcute [32m200 [0m0.455 ms - -[0m
+in upcute route for 18
+1
+[0mPOST /upcute [32m200 [0m0.446 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.459 ms - -[0m
+in upcute route for 8
+2
+[0mPOST /upcute [32m200 [0m0.475 ms - -[0m
+in upcute route for 3
+2
+[0mPOST /upcute [32m200 [0m0.450 ms - -[0m
+in upcute route for 7
+1
+[0mPOST /upcute [32m200 [0m0.509 ms - -[0m
+in uplame route for 24
+3
+[0mPOST /uplame [32m200 [0m0.492 ms - -[0m
+in upcute route for 21
+3
+[0mPOST /upcute [32m200 [0m0.735 ms - -[0m
+in upcute route for 12
+1
+[0mPOST /upcute [32m200 [0m0.464 ms - -[0m
+in upcute route for 19
+1
+[0mPOST /upcute [32m200 [0m0.488 ms - -[0m
+in getcats route
+submissions:  2.6666666664
+[0mGET /getcats [32m200 [0m1.183 ms - 3758[0m
+[0mGET /catList.html [32m200 [0m1.268 ms - 974[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.609 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.612 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m33.570 ms - 1292[0m
+in getcats route
+submissions:  2.9999999997
+[0mGET /getcats [36m304 [0m0.698 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.717 ms - -[0m
+[0mGET /?fbclid=IwAR3zI031VYGUs_FdHKevxxAZLT388WYEp09B-VSX3CtHRF_2U-jNkUfNE9o [36m304 [0m0.584 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.601 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m1.135 ms - -[0m
+in getcats route
+submissions:  3.333333333
+[0mGET /getcats [36m304 [0m0.697 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.251 ms - -[0m
+in uplame route for 11
+1
+[0mPOST /uplame [32m200 [0m0.483 ms - -[0m
+in upcute route for 24
+1
+[0mPOST /upcute [32m200 [0m0.437 ms - -[0m
+in uplame route for 17
+2
+[0mPOST /uplame [32m200 [0m2.286 ms - -[0m
+in upcute route for 13
+2
+[0mPOST /upcute [32m200 [0m1.301 ms - -[0m
+in upcute route for 3
+2
+[0mPOST /upcute [32m200 [0m2.644 ms - -[0m
+in upcute route for 10
+1
+[0mPOST /upcute [32m200 [0m0.461 ms - -[0m
+in upcute route for 6
+1
+[0mPOST /upcute [32m200 [0m0.449 ms - -[0m
+in uplame route for 7
+1
+[0mPOST /uplame [32m200 [0m0.436 ms - -[0m
+in uplame route for 8
+1
+[0mPOST /uplame [32m200 [0m0.441 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m2.237 ms - -[0m
+in upcute route for 0
+1
+[0mPOST /upcute [32m200 [0m0.426 ms - -[0m
+in upcute route for 2
+2
+[0mPOST /upcute [32m200 [0m1.919 ms - -[0m
+in upcute route for 22
+2
+[0mPOST /upcute [32m200 [0m0.436 ms - -[0m
+in uplame route for 14
+1
+[0mPOST /uplame [32m200 [0m0.474 ms - -[0m
+in upcute route for 23
+1
+[0mPOST /upcute [32m200 [0m0.417 ms - -[0m
+in upcute route for 18
+1
+[0mPOST /upcute [32m200 [0m0.447 ms - -[0m
+[0mGET / [32m200 [0m1.203 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.584 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.528 ms - 1938[0m
+in getcats route
+submissions:  3.6666666663000003
+[0mGET /getcats [32m200 [0m0.830 ms - 3759[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m1.103 ms - 20226[0m
+in uplame route for 20
+2
+[0mPOST /uplame [32m200 [0m0.471 ms - -[0m
+in upcute route for 19
+1
+[0mPOST /upcute [32m200 [0m0.895 ms - -[0m
+in upcute route for 12
+1
+[0mPOST /upcute [32m200 [0m0.448 ms - -[0m
+in upcute route for 1
+1
+[0mPOST /upcute [32m200 [0m0.435 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.460 ms - -[0m
+in upcute route for 16
+1
+[0mPOST /upcute [32m200 [0m0.447 ms - -[0m
+in upcute route for 21
+1
+[0mPOST /upcute [32m200 [0m0.418 ms - -[0m
+in upcute route for 15
+1
+[0mPOST /upcute [32m200 [0m0.437 ms - -[0m
+in upcute route for 5
+1
+[0mPOST /upcute [32m200 [0m0.438 ms - -[0m
+in getcats route
+submissions:  3.9999999996000004
+[0mGET /getcats [32m200 [0m0.617 ms - 3760[0m
+[0mGET /catList.html [36m304 [0m0.322 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m10.161 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m1.736 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m40.814 ms - 1292[0m
+in getcats route
+submissions:  4.333333332900001
+[0mGET /getcats [36m304 [0m2.956 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m2.951 ms - -[0m
+[0mGET / [32m206 [0m1.084 ms - 1784[0m
+[0mGET /?fbclid=IwAR2NQYNQLJmdPNAXmbW9aqJvS0QgyXGpTwBlAME0NOLeDIFE90KsdGHyyo0 [32m200 [0m2.652 ms - 1784[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.567 ms - 1938[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.414 ms - 2897[0m
+in getcats route
+submissions:  4.6666666662
+[0mGET /getcats [32m200 [0m1.063 ms - 3760[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.539 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m14.120 ms - 1292[0m
+in upcute route for 7
+3
+[0mPOST /upcute [32m200 [0m1.111 ms - -[0m
+in upcute route for 0
+3
+[0mPOST /upcute [32m200 [0m0.451 ms - -[0m
+in upcute route for 12
+3
+[0mPOST /upcute [32m200 [0m0.438 ms - -[0m
+in upcute route for 22
+1
+[0mPOST /upcute [32m200 [0m0.695 ms - -[0m
+in uplame route for 24
+3
+[0mPOST /uplame [32m200 [0m2.719 ms - -[0m
+in uplame route for 21
+3
+[0mPOST /uplame [32m200 [0m0.469 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.457 ms - -[0m
+in upcute route for 14
+3
+[0mPOST /upcute [32m200 [0m0.448 ms - -[0m
+in upcute route for 3
+3
+[0mPOST /upcute [32m200 [0m0.441 ms - -[0m
+in uplame route for 15
+1
+[0mPOST /uplame [32m200 [0m0.418 ms - -[0m
+in upcute route for 10
+3
+[0mPOST /upcute [32m200 [0m0.468 ms - -[0m
+in upcute route for 19
+3
+[0mPOST /upcute [32m200 [0m0.428 ms - -[0m
+in upcute route for 9
+3
+[0mPOST /upcute [32m200 [0m0.422 ms - -[0m
+in upcute route for 8
+2
+[0mPOST /upcute [32m200 [0m0.461 ms - -[0m
+in upcute route for 5
+3
+[0mPOST /upcute [32m200 [0m0.395 ms - -[0m
+in upcute route for 17
+1
+[0mPOST /upcute [32m200 [0m0.433 ms - -[0m
+in upcute route for 23
+2
+[0mPOST /upcute [32m200 [0m0.430 ms - -[0m
+in uplame route for 2
+2
+[0mPOST /uplame [32m200 [0m0.416 ms - -[0m
+in upcute route for 16
+3
+[0mPOST /upcute [32m200 [0m0.430 ms - -[0m
+[0mGET / [32m200 [0m1.230 ms - 1784[0m
+[0mGET /stylesheets/main.css [32m200 [0m4.756 ms - 1938[0m
+[0mGET /javascripts/cats.js [32m200 [0m4.626 ms - 2897[0m
+in getcats route
+submissions:  4.9999999995
+[0mGET /getcats [32m200 [0m0.835 ms - 3764[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m1.107 ms - 20226[0m
+[0mGET / [36m304 [0m0.550 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.613 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.931 ms - -[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.587 ms - 20226[0m
+in getcats route
+submissions:  5.3333333328
+[0mGET /getcats [32m200 [0m1.611 ms - 3764[0m
+[0mGET /catList.html [36m304 [0m0.342 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.553 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.538 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m7.313 ms - 1292[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.256 ms - -[0m
+in getcats route
+submissions:  5.666666666099999
+[0mGET /getcats [36m304 [0m0.596 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m11.126 ms - 1292[0m
+[0mGET / [36m304 [0m0.530 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.295 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.281 ms - -[0m
+in getcats route
+submissions:  5.999999999399999
+[0mGET /getcats [36m304 [0m1.012 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.282 ms - -[0m
+in upcute route for 2
+2
+[0mPOST /upcute [32m200 [0m0.518 ms - -[0m
+in upcute route for 16
+1
+[0mPOST /upcute [32m200 [0m0.420 ms - -[0m
+in upcute route for 11
+2
+[0mPOST /upcute [32m200 [0m0.447 ms - -[0m
+in upcute route for 13
+1
+[0mPOST /upcute [32m200 [0m0.416 ms - -[0m
+in uplame route for 23
+1
+[0mPOST /uplame [32m200 [0m0.435 ms - -[0m
+in uplame route for 20
+2
+[0mPOST /uplame [32m200 [0m1.298 ms - -[0m
+in upcute route for 12
+2
+[0mPOST /upcute [32m200 [0m0.681 ms - -[0m
+in upcute route for 0
+1
+[0mPOST /upcute [32m200 [0m0.495 ms - -[0m
+in upcute route for 7
+1
+[0mPOST /upcute [32m200 [0m0.489 ms - -[0m
+in upcute route for 3
+1
+[0mPOST /upcute [32m200 [0m0.415 ms - -[0m
+in upcute route for 17
+1
+[0mPOST /upcute [32m200 [0m0.419 ms - -[0m
+in upcute route for 1
+1
+[0mPOST /upcute [32m200 [0m1.089 ms - -[0m
+in upcute route for 10
+1
+[0mPOST /upcute [32m200 [0m0.417 ms - -[0m
+in uplame route for 15
+2
+[0mPOST /uplame [32m200 [0m0.485 ms - -[0m
+in uplame route for 24
+3
+[0mPOST /uplame [32m200 [0m0.430 ms - -[0m
+in uplame route for 22
+2
+[0mPOST /uplame [32m200 [0m0.529 ms - -[0m
+in upcute route for 5
+1
+[0mPOST /upcute [32m200 [0m0.426 ms - -[0m
+in upcute route for 14
+1
+[0mPOST /upcute [32m200 [0m0.427 ms - -[0m
+in upcute route for 6
+1
+[0mPOST /upcute [32m200 [0m0.441 ms - -[0m
+in upcute route for 19
+1
+[0mPOST /upcute [32m200 [0m1.549 ms - -[0m
+in upcute route for 4
+1
+[0mPOST /upcute [32m200 [0m0.416 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m13.039 ms - -[0m
+in upcute route for 21
+1
+[0mPOST /upcute [32m200 [0m0.424 ms - -[0m
+in upcute route for 18
+1
+[0mPOST /upcute [32m200 [0m0.453 ms - -[0m
+in upcute route for 8
+1
+[0mPOST /upcute [32m200 [0m0.421 ms - -[0m
+in getcats route
+submissions:  6.333333332699999
+[0mGET /getcats [32m200 [0m0.651 ms - 3767[0m
+[0mGET /catList.html [32m200 [0m0.593 ms - 974[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m11.579 ms - 1292[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.299 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.206 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m7.665 ms - 1292[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m3.637 ms - -[0m
+in getcats route
+submissions:  6.6666666659999985
+[0mGET /getcats [32m200 [0m0.690 ms - 3767[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m7.407 ms - 1292[0m
+[0mGET / [32m206 [0m1.117 ms - 1784[0m
+[0mGET /?fbclid=IwAR2G3igdoSFGRDuIDP72PVmeczC2uXCNYHhdXm71KsD_6E5HniR50-8kD18 [32m200 [0m0.713 ms - 1784[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.840 ms - 1938[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.926 ms - 2897[0m
+in getcats route
+submissions:  6.999999999299998
+[0mGET /getcats [32m200 [0m0.616 ms - 3767[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.438 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m14.509 ms - 1292[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.777 ms - -[0m
+in upcute route for 18
+3
+[0mPOST /upcute [32m200 [0m0.426 ms - -[0m
+[0mGET /?fbclid=IwAR2G3igdoSFGRDuIDP72PVmeczC2uXCNYHhdXm71KsD_6E5HniR50-8kD18 [36m304 [0m0.675 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.379 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.204 ms - -[0m
+in getcats route
+submissions:  7.333333332599998
+[0mGET /getcats [32m200 [0m0.597 ms - 3767[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.242 ms - -[0m
+in upcute route for 11
+1
+[0mPOST /upcute [32m200 [0m0.458 ms - -[0m
+in uplame route for 6
+1
+[0mPOST /uplame [32m200 [0m0.426 ms - -[0m
+in uplame route for 24
+3
+[0mPOST /uplame [32m200 [0m0.438 ms - -[0m
+in upcute route for 14
+2
+[0mPOST /upcute [32m200 [0m0.485 ms - -[0m
+in uplame route for 20
+2
+[0mPOST /uplame [32m200 [0m0.773 ms - -[0m
+in upcute route for 3
+2
+[0mPOST /upcute [32m200 [0m0.408 ms - -[0m
+in upcute route for 10
+1
+[0mPOST /upcute [32m200 [0m0.430 ms - -[0m
+in upcute route for 12
+2
+[0mPOST /upcute [32m200 [0m0.426 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m0.432 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.555 ms - -[0m
+in upcute route for 7
+3
+[0mPOST /upcute [32m200 [0m8.404 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.416 ms - -[0m
+in upcute route for 16
+1
+[0mPOST /upcute [32m200 [0m3.398 ms - -[0m
+in uplame route for 8
+1
+[0mPOST /uplame [32m200 [0m0.444 ms - -[0m
+in upcute route for 1
+2
+[0mPOST /upcute [32m200 [0m0.399 ms - -[0m
+in uplame route for 23
+1
+[0mPOST /uplame [32m200 [0m0.413 ms - -[0m
+in uplame route for 21
+3
+[0mPOST /uplame [32m200 [0m0.633 ms - -[0m
+in uplame route for 22
+2
+[0mPOST /uplame [32m200 [0m0.476 ms - -[0m
+in upcute route for 17
+1
+[0mPOST /upcute [32m200 [0m0.422 ms - -[0m
+in upcute route for 19
+2
+[0mPOST /upcute [32m200 [0m0.417 ms - -[0m
+in upcute route for 5
+2
+[0mPOST /upcute [32m200 [0m0.407 ms - -[0m
+in uplame route for 15
+1
+[0mPOST /uplame [32m200 [0m0.433 ms - -[0m
+in upcute route for 2
+1
+[0mPOST /upcute [32m200 [0m0.404 ms - -[0m
+in upcute route for 18
+2
+[0mPOST /upcute [32m200 [0m0.411 ms - -[0m
+in upcute route for 0
+2
+[0mPOST /upcute [32m200 [0m0.416 ms - -[0m
+in getcats route
+submissions:  7.666666665899998
+[0mGET /getcats [32m200 [0m0.679 ms - 3775[0m
+[0mGET /catList.html [32m200 [0m0.438 ms - 974[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.565 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m13.768 ms - 1292[0m
+[0mGET /stylesheets/main.css [36m304 [0m1.516 ms - -[0m
+in getcats route
+submissions:  7.999999999199997
+[0mGET /getcats [36m304 [0m0.917 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.263 ms - -[0m
+[0mGET / [32m206 [0m0.716 ms - 1784[0m
+[0mGET / [36m304 [0m0.489 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.289 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.269 ms - -[0m
+in getcats route
+submissions:  8.333333332499997
+[0mGET /getcats [32m200 [0m0.433 ms - 3775[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.257 ms - -[0m
+[0mGET /?fbclid=IwAR2qj1zapN8csaZSj0AA-BdJZWAI9lF_33favyQ3hFOFIt7jmqGXy21g5bI [32m200 [0m0.697 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.574 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.616 ms - 1938[0m
+in getcats route
+submissions:  8.666666665799998
+[0mGET /getcats [32m200 [0m0.538 ms - 3775[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.451 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m13.044 ms - 1292[0m
+in upcute route for 24
+1
+[0mPOST /upcute [32m200 [0m0.556 ms - -[0m
+in upcute route for 6
+3
+[0mPOST /upcute [32m200 [0m68.067 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.382 ms - -[0m
+in upcute route for 18
+3
+[0mPOST /upcute [32m200 [0m0.404 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.399 ms - -[0m
+in upcute route for 12
+3
+[0mPOST /upcute [32m200 [0m0.461 ms - -[0m
+in upcute route for 16
+3
+[0mPOST /upcute [32m200 [0m0.403 ms - -[0m
+[0mGET / [32m200 [0m0.754 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m2.435 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m1.252 ms - 1938[0m
+in getcats route
+submissions:  8.999999999099998
+[0mGET /getcats [32m200 [0m0.752 ms - 3779[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m1.044 ms - 20226[0m
+in upcute route for 4
+3
+[0mPOST /upcute [32m200 [0m0.442 ms - -[0m
+in upcute route for 14
+3
+[0mPOST /upcute [32m200 [0m0.401 ms - -[0m
+in upcute route for 11
+2
+[0mPOST /upcute [32m200 [0m0.414 ms - -[0m
+in uplame route for 2
+1
+[0mPOST /uplame [32m200 [0m0.462 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.427 ms - -[0m
+in upcute route for 6
+3
+[0mPOST /upcute [32m200 [0m0.399 ms - -[0m
+in upcute route for 3
+3
+[0mPOST /upcute [32m200 [0m0.560 ms - -[0m
+in upcute route for 19
+1
+[0mPOST /upcute [32m200 [0m0.425 ms - -[0m
+in uplame route for 23
+3
+[0mPOST /uplame [32m200 [0m1.154 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m0.374 ms - -[0m
+in uplame route for 22
+2
+[0mPOST /uplame [32m200 [0m0.406 ms - -[0m
+in upcute route for 24
+3
+[0mPOST /upcute [32m200 [0m0.431 ms - -[0m
+in upcute route for 16
+2
+[0mPOST /upcute [32m200 [0m0.417 ms - -[0m
+in upcute route for 5
+1
+[0mPOST /upcute [32m200 [0m0.420 ms - -[0m
+in uplame route for 20
+3
+[0mPOST /uplame [32m200 [0m0.395 ms - -[0m
+in upcute route for 10
+3
+[0mPOST /upcute [32m200 [0m0.392 ms - -[0m
+in upcute route for 8
+1
+[0mPOST /upcute [32m200 [0m1.792 ms - -[0m
+in upcute route for 7
+3
+[0mPOST /upcute [32m200 [0m0.700 ms - -[0m
+in uplame route for 15
+2
+[0mPOST /uplame [32m200 [0m0.395 ms - -[0m
+in upcute route for 1
+3
+[0mPOST /upcute [32m200 [0m0.413 ms - -[0m
+in uplame route for 21
+1
+[0mPOST /uplame [32m200 [0m0.857 ms - -[0m
+in upcute route for 0
+3
+[0mPOST /upcute [32m200 [0m0.407 ms - -[0m
+in upcute route for 12
+3
+[0mPOST /upcute [32m200 [0m0.403 ms - -[0m
+in upcute route for 18
+3
+[0mPOST /upcute [32m200 [0m0.390 ms - -[0m
+in upcute route for 17
+3
+[0mPOST /upcute [32m200 [0m0.407 ms - -[0m
+in getcats route
+submissions:  9.333333332399999
+[0mGET /getcats [32m200 [0m0.770 ms - 3792[0m
+[0mGET /catList.html [32m200 [0m0.580 ms - 974[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m9.250 ms - 1292[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.351 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.233 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m8.955 ms - 1292[0m
+in getcats route
+submissions:  9.6666666657
+[0mGET /getcats [32m200 [0m0.733 ms - 3792[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.798 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m7.919 ms - 1292[0m
+[0mGET /?fbclid=IwAR2g58VamIbiGWLZ3Ly41Q0JudB6Zlv8ibWpjwdkysSZp-L-5p3WPhSVjCY [32m200 [0m0.668 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.546 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.639 ms - 1938[0m
+in getcats route
+submissions:  9.999999999
+[0mGET /getcats [32m200 [0m0.602 ms - 3792[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.414 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m8.764 ms - 1292[0m
+[0mGET / [32m200 [0m0.694 ms - 1784[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.561 ms - 1938[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.560 ms - 2897[0m
+in getcats route
+submissions:  10.3333333323
+[0mGET /getcats [32m200 [0m1.374 ms - 3792[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.479 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m5.788 ms - 1292[0m
+in upcute route for 14
+3
+[0mPOST /upcute [32m200 [0m0.499 ms - -[0m
+in upcute route for 17
+3
+[0mPOST /upcute [32m200 [0m0.418 ms - -[0m
+in upcute route for 15
+1
+[0mPOST /upcute [32m200 [0m0.385 ms - -[0m
+in upcute route for 2
+1
+[0mPOST /upcute [32m200 [0m0.448 ms - -[0m
+in upcute route for 13
+1
+[0mPOST /upcute [32m200 [0m0.443 ms - -[0m
+in upcute route for 5
+1
+[0mPOST /upcute [32m200 [0m0.398 ms - -[0m
+in upcute route for 21
+3
+[0mPOST /upcute [32m200 [0m0.375 ms - -[0m
+in upcute route for 1
+1
+[0mPOST /upcute [32m200 [0m0.407 ms - -[0m
+in upcute route for 19
+2
+[0mPOST /upcute [32m200 [0m0.459 ms - -[0m
+in upcute route for 18
+1
+[0mPOST /upcute [32m200 [0m0.447 ms - -[0m
+in upcute route for 8
+1
+[0mPOST /upcute [32m200 [0m0.425 ms - -[0m
+in upcute route for 3
+1
+[0mPOST /upcute [32m200 [0m0.431 ms - -[0m
+in upcute route for 7
+1
+[0mPOST /upcute [32m200 [0m0.552 ms - -[0m
+in upcute route for 24
+2
+[0mPOST /upcute [32m200 [0m0.406 ms - -[0m
+in upcute route for 22
+1
+[0mPOST /upcute [32m200 [0m0.398 ms - -[0m
+in upcute route for 6
+1
+[0mPOST /upcute [32m200 [0m0.441 ms - -[0m
+in upcute route for 10
+2
+[0mPOST /upcute [32m200 [0m0.402 ms - -[0m
+in upcute route for 11
+1
+[0mPOST /upcute [32m200 [0m0.420 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.398 ms - -[0m
+in upcute route for 9
+2
+[0mPOST /upcute [32m200 [0m0.415 ms - -[0m
+in upcute route for 0
+2
+[0mPOST /upcute [32m200 [0m0.449 ms - -[0m
+in upcute route for 12
+1
+[0mPOST /upcute [32m200 [0m0.452 ms - -[0m
+in upcute route for 16
+1
+[0mPOST /upcute [32m200 [0m0.396 ms - -[0m
+in upcute route for 23
+1
+[0mPOST /upcute [32m200 [0m0.479 ms - -[0m
+in upcute route for 20
+2
+[0mPOST /upcute [32m200 [0m0.945 ms - -[0m
+in getcats route
+submissions:  10.666666665600001
+[0mGET /getcats [32m200 [0m0.606 ms - 3797[0m
+[0mGET /catList.html [32m200 [0m0.677 ms - 974[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.349 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.347 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m11.873 ms - 1292[0m
+in getcats route
+submissions:  10.999999998900002
+[0mGET /getcats [36m304 [0m0.588 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.242 ms - -[0m
+[0mGET / [32m206 [0m2.159 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m206 [0m0.607 ms - 2897[0m
+[0mGET /catList.html [32m200 [0m0.487 ms - 974[0m
+[0mGET /javascripts/cats.js [32m200 [0m1.011 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m1.121 ms - 1938[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m13.353 ms - 1292[0m
+in getcats route
+submissions:  11.333333332200002
+[0mGET /getcats [32m200 [0m0.592 ms - 3797[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.429 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m7.410 ms - 1292[0m
+[0mGET /catList.html [36m304 [0m0.464 ms - -[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.334 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.453 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m4.341 ms - 1292[0m
+in getcats route
+submissions:  11.666666665500003
+[0mGET /getcats [36m304 [0m0.587 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.310 ms - -[0m
+[0mGET / [32m200 [0m0.763 ms - 1784[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.538 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.536 ms - -[0m
+in getcats route
+submissions:  11.999999998800003
+[0mGET /getcats [36m304 [0m0.756 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.779 ms - -[0m
+[0mGET /?fbclid=IwAR0vDf44NKdoX-2LtwZcox9iAWucWjuPyb3lT9Qp2UL3tmHZ6LBZZrSIpW0 [32m200 [0m0.644 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.577 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.376 ms - 1938[0m
+in getcats route
+submissions:  12.333333332100004
+[0mGET /getcats [32m200 [0m0.607 ms - 3797[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.410 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m6.664 ms - 1292[0m
+in upcute route for 8
+1
+[0mPOST /upcute [32m200 [0m0.449 ms - -[0m
+in upcute route for 10
+3
+[0mPOST /upcute [32m200 [0m0.445 ms - -[0m
+in upcute route for 15
+1
+[0mPOST /upcute [32m200 [0m6.117 ms - -[0m
+in uplame route for 23
+1
+[0mPOST /uplame [32m200 [0m0.408 ms - -[0m
+in upcute route for 19
+2
+[0mPOST /upcute [32m200 [0m0.425 ms - -[0m
+in upcute route for 20
+1
+[0mPOST /upcute [32m200 [0m0.460 ms - -[0m
+in upcute route for 16
+2
+[0mPOST /upcute [32m200 [0m0.407 ms - -[0m
+in upcute route for 2
+1
+[0mPOST /upcute [32m200 [0m0.449 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.428 ms - -[0m
+in uplame route for 21
+1
+[0mPOST /uplame [32m200 [0m0.414 ms - -[0m
+[0mGET / [32m200 [0m0.778 ms - 1784[0m
+in upcute route for 11
+3
+[0mPOST /upcute [32m200 [0m0.394 ms - -[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.894 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.826 ms - 1938[0m
+in getcats route
+submissions:  12.666666665400005
+[0mGET /getcats [32m200 [0m2.591 ms - 3799[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m3.236 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m6.864 ms - 1292[0m
+in upcute route for 18
+3
+[0mPOST /upcute [32m200 [0m0.412 ms - -[0m
+in upcute route for 5
+3
+[0mPOST /upcute [32m200 [0m0.457 ms - -[0m
+in upcute route for 12
+2
+[0mPOST /upcute [32m200 [0m0.399 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.381 ms - -[0m
+in upcute route for 1
+3
+[0mPOST /upcute [32m200 [0m1.403 ms - -[0m
+in uplame route for 23
+1
+[0mPOST /uplame [32m200 [0m0.414 ms - -[0m
+in upcute route for 6
+1
+[0mPOST /upcute [32m200 [0m0.450 ms - -[0m
+in uplame route for 14
+1
+[0mPOST /uplame [32m200 [0m0.436 ms - -[0m
+in upcute route for 14
+2
+[0mPOST /upcute [32m200 [0m0.423 ms - -[0m
+in upcute route for 21
+2
+[0mPOST /upcute [32m200 [0m1.224 ms - -[0m
+in upcute route for 0
+2
+[0mPOST /upcute [32m200 [0m1.290 ms - -[0m
+in upcute route for 12
+2
+[0mPOST /upcute [32m200 [0m0.399 ms - -[0m
+in upcute route for 7
+3
+[0mPOST /upcute [32m200 [0m0.389 ms - -[0m
+in upcute route for 1
+3
+[0mPOST /upcute [32m200 [0m0.407 ms - -[0m
+in upcute route for 9
+3
+[0mPOST /upcute [32m200 [0m0.396 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m0.401 ms - -[0m
+in upcute route for 11
+1
+[0mPOST /upcute [32m200 [0m0.457 ms - -[0m
+in upcute route for 24
+3
+[0mPOST /upcute [32m200 [0m0.398 ms - -[0m
+in upcute route for 3
+3
+[0mPOST /upcute [32m200 [0m0.394 ms - -[0m
+in upcute route for 3
+3
+[0mPOST /upcute [32m200 [0m0.408 ms - -[0m
+in uplame route for 16
+1
+[0mPOST /uplame [32m200 [0m0.425 ms - -[0m
+in upcute route for 17
+2
+[0mPOST /upcute [32m200 [0m0.398 ms - -[0m
+in upcute route for 22
+1
+[0mPOST /upcute [32m200 [0m0.379 ms - -[0m
+in getcats route
+submissions:  12.999999998700005
+[0mGET /getcats [32m200 [0m0.582 ms - 3802[0m
+[0mGET /catList.html [32m200 [0m0.559 ms - 974[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m5.760 ms - 1292[0m
+[0mGET /javascripts/cats.js [36m304 [0m5.445 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.304 ms - -[0m
+in getcats route
+submissions:  13.333333332000006
+[0mGET /getcats [36m304 [0m0.618 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.240 ms - -[0m
+in upcute route for 9
+1
+[0mPOST /upcute [32m200 [0m0.470 ms - -[0m
+in upcute route for 19
+2
+[0mPOST /upcute [32m200 [0m0.449 ms - -[0m
+in uplame route for 24
+3
+[0mPOST /uplame [32m200 [0m0.436 ms - -[0m
+in uplame route for 20
+2
+[0mPOST /uplame [32m200 [0m0.416 ms - -[0m
+in upcute route for 10
+1
+[0mPOST /upcute [32m200 [0m0.469 ms - -[0m
+in upcute route for 0
+3
+[0mPOST /upcute [32m200 [0m0.370 ms - -[0m
+in upcute route for 17
+2
+[0mPOST /upcute [32m200 [0m0.400 ms - -[0m
+in uplame route for 8
+1
+[0mPOST /uplame [32m200 [0m0.423 ms - -[0m
+in upcute route for 7
+3
+[0mPOST /upcute [32m200 [0m0.402 ms - -[0m
+in uplame route for 15
+2
+[0mPOST /uplame [32m200 [0m0.422 ms - -[0m
+in uplame route for 6
+1
+[0mPOST /uplame [32m200 [0m0.388 ms - -[0m
+in uplame route for 22
+2
+[0mPOST /uplame [32m200 [0m0.414 ms - -[0m
+in uplame route for 2
+3
+[0mPOST /uplame [32m200 [0m1.101 ms - -[0m
+in upcute route for 5
+1
+[0mPOST /upcute [32m200 [0m0.412 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.400 ms - -[0m
+in upcute route for 18
+1
+[0mPOST /upcute [32m200 [0m0.436 ms - -[0m
+in getcats route
+submissions:  13.666666665300006
+[0mGET /getcats [32m200 [0m0.579 ms - 3802[0m
+[0mGET /catList.html [32m200 [0m0.601 ms - 974[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m7.381 ms - 1292[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.343 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.722 ms - -[0m
+in getcats route
+submissions:  13.999999998600007
+[0mGET /getcats [36m304 [0m1.244 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.261 ms - -[0m
+[0mGET / [32m206 [0m2.416 ms - 1784[0m
+[0mGET /?fbclid=IwAR1Hfa5t-YEH9AQlq4nkcEh7KzQnAZ8n68j6Z3P9oVv9UqDwtDRvrl52mbE [32m200 [0m0.635 ms - 1784[0m
+[0mGET /javascripts/cats.js [32m200 [0m0.530 ms - 2897[0m
+[0mGET /stylesheets/main.css [32m200 [0m0.495 ms - 1938[0m
+in getcats route
+submissions:  14.333333331900008
+[0mGET /getcats [32m200 [0m0.537 ms - 3802[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.422 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m5.136 ms - 1292[0m
+in uplame route for 21
+2
+[0mPOST /uplame [32m200 [0m0.423 ms - -[0m
+in upcute route for 16
+2
+[0mPOST /upcute [32m200 [0m0.391 ms - -[0m
+in upcute route for 24
+3
+[0mPOST /upcute [32m200 [0m0.384 ms - -[0m
+in upcute route for 10
+3
+[0mPOST /upcute [32m200 [0m0.396 ms - -[0m
+in upcute route for 11
+3
+[0mPOST /upcute [32m200 [0m0.399 ms - -[0m
+in upcute route for 19
+2
+[0mPOST /upcute [32m200 [0m0.420 ms - -[0m
+in upcute route for 0
+2
+[0mPOST /upcute [32m200 [0m0.487 ms - -[0m
+in upcute route for 22
+1
+[0mPOST /upcute [32m200 [0m0.423 ms - -[0m
+in upcute route for 3
+2
+[0mPOST /upcute [32m200 [0m0.410 ms - -[0m
+in uplame route for 2
+1
+[0mPOST /uplame [32m200 [0m0.450 ms - -[0m
+in uplame route for 15
+1
+[0mPOST /uplame [32m200 [0m0.392 ms - -[0m
+in upcute route for 5
+3
+[0mPOST /upcute [32m200 [0m0.416 ms - -[0m
+in upcute route for 14
+2
+[0mPOST /upcute [32m200 [0m0.404 ms - -[0m
+in upcute route for 9
+2
+[0mPOST /upcute [32m200 [0m0.426 ms - -[0m
+in upcute route for 7
+2
+[0mPOST /upcute [32m200 [0m0.432 ms - -[0m
+in uplame route for 20
+1
+[0mPOST /uplame [32m200 [0m0.405 ms - -[0m
+in upcute route for 6
+1
+[0mPOST /upcute [32m200 [0m0.429 ms - -[0m
+in uplame route for 23
+1
+[0mPOST /uplame [32m200 [0m0.415 ms - -[0m
+in upcute route for 8
+1
+[0mPOST /upcute [32m200 [0m0.434 ms - -[0m
+in uplame route for 17
+1
+[0mPOST /uplame [32m200 [0m0.391 ms - -[0m
+in upcute route for 18
+3
+[0mPOST /upcute [32m200 [0m0.461 ms - -[0m
+in upcute route for 4
+2
+[0mPOST /upcute [32m200 [0m0.428 ms - -[0m
+in upcute route for 1
+1
+[0mPOST /upcute [32m200 [0m0.484 ms - -[0m
+in upcute route for 12
+1
+[0mPOST /upcute [32m200 [0m0.445 ms - -[0m
+in upcute route for 13
+3
+[0mPOST /upcute [32m200 [0m1.504 ms - -[0m
+in getcats route
+submissions:  14.666666665200008
+[0mGET /getcats [32m200 [0m0.591 ms - 3803[0m
+[0mGET /catList.html [32m200 [0m0.477 ms - 974[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.357 ms - -[0m
+[0mGET /stylesheets/main.css [36m304 [0m0.221 ms - -[0m
+[0mGET /%7B%7Bx.url%7D%7D [33m404 [0m4.300 ms - 1292[0m
+in getcats route
+submissions:  14.999999998500009
+[0mGET /getcats [36m304 [0m0.432 ms - -[0m
+[0mGET /images/pawPattern.jpg [36m304 [0m0.216 ms - -[0m
+[0mGET / [32m200 [0m0.702 ms - 1784[0m
+[0mGET /javascripts/cats.js [36m304 [0m0.442 ms - -[0m
+[0mGET /stylesheets/main.css [32m200 [0m1.645 ms - 1938[0m
+in getcats route
+submissions:  15.33333333180001
+[0mGET /getcats [32m200 [0m0.559 ms - 3803[0m
+[0mGET /images/pawPattern.jpg [32m200 [0m0.451 ms - 20226[0m
+[0mGET /favicon.ico [33m404 [0m4.247 ms - 1292[0m
+[0mGET /favicon.ico [33m404 [0m4.372 ms - 1292[0m
