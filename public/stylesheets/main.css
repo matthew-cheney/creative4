@@ -97,6 +97,12 @@ body {
     background-color: #ed8e8e;
 }
 
+#progressBar {
+    background-color: #ffbf3f;
+    position: absolute;
+    bottom: 0;
+    height: 4vh;
+}
 
 #displayWindow {
     float: left;

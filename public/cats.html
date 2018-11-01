@@ -13,9 +13,11 @@
         <h2>Welcome to the</h2>
         <h1>Cute Cat Collective</h1>
         <p>Rate the following cats by CUTENESS, and see who comes out on top!</p>
+        <p>Please rate all 25 images. It takes approximately 1 - 2 minutes.</p>
+        <p><em>click anywhere to continue</em></p>
     </div>
     <div id="nameBar">
-        <div id="namePlate">
+        <div id="namePlate" ng-click="incrCat()">
             {{imageOnDisplay.name}}
         </div>
     </div>
@@ -51,6 +53,9 @@
                 </tr>
             </table>
         </div>
+    </div>
+    <div id="progressBar" ng-style="progressBarStyle">
+        &nbsp
     </div>
 </body>
 

@@ -10,6 +10,7 @@ catApp.controller('catCtrl', function($scope, $http) {
     var catIndex = 0;
     $scope.cats = {};
     $scope.imageOnDisplay;
+    $scope.progressBarStyle = { "width": 0 + "vw" };
 
     var catsLeft = [];
     var arrayToTwenty = [];
@@ -82,7 +83,7 @@ catApp.controller('catCtrl', function($scope, $http) {
                 .then(function(response) {
                     console.log(response);
                     $scope.cats = response.data;
-                })
+                });
         }
         else {
             if (catIndex == $scope.cats.length) {
@@ -90,6 +91,7 @@ catApp.controller('catCtrl', function($scope, $http) {
             }
             $scope.imageOnDisplay = $scope.cats[catI];
             $scope.imageDiv = { "background-image": "url(" + $scope.imageOnDisplay.url + ")" };
+            $scope.progressBarStyle = { "width": (catIndex / 25) * 100 + "vw" };
         }
     }
 });
